@@ -1,2 +1,2 @@
 # Hello-World
-PAra crear proyectos y guardar nuevas ideas
+Hi there Im loking for programs in Python
